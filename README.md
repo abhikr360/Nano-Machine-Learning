@@ -1,7 +1,8 @@
--------------------# NANO - MACHINE LEARNING #---------------------------------------
+NANO - MACHINE LEARNING
+======================================================================
 
--------------------------------------------------------------------------------------
-In this project we take a look at improving on the current techniques of imple-
+
+In this project we try to improve the current techniques of imple-
 mentation of Machine Learning algorithms in IoT(Internet of Things) devices,
 particularly we look at the formulation of k-NN based implementations. We study
 Proto-NN, a novel k-NN based algorithm for making predictions on resource
